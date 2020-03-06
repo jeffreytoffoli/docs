@@ -1,9 +1,21 @@
 ### API Clients
 
-We recommend using a client library to access the API. We offer official clients in various languages.
-[View our API Clients](https://www.clarifai.com/developer/reference).
+We recommend using a client library to access the Clarifai API. We offer official clients in
+various languages.
 
-For REST documentation please see the cURL examples.
+| Available Clients |
+| ----------------- |
+| [Clarifai C#](https://github.com/Clarifai/clarifai-csharp) |
+| [Clarifai Java](https://github.com/Clarifai/clarifai-java) |
+| [Clarifai JavaScript](https://github.com/Clarifai/clarifai-javascript) ([Reference Docs](https://sdk.clarifai.com/js/latest/index.html)) |
+| [Clarifai PHP](https://github.com/Clarifai/clarifai-php) |
+| [Clarifai Python](https://github.com/Clarifai/clarifai-python) ([Reference Docs](https://clarifai-python.readthedocs.io/en/latest/index.html)) |
+
+To access the Clarifai API in other languages, use the REST API directly. For REST documentation
+please see the cURL examples.
+
+To request native support for your desired language, please use
+[this form](https://docs.google.com/forms/d/e/1FAIpQLScqgilEonz-nalatwbaWQ7XsZ-76RmyMnMt_2jSork5T6kDTQ/viewform).
 
 
 
